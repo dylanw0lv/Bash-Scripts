@@ -3,6 +3,11 @@
 
 ## Vanilla JavaScript Boilerplate Setup for Command Line on Ubuntu
 
+The vanillaJA_boilerplate script creates a project boilerplate for a vanilla js project and opens the folder in vs code.
+Upon running the script, it will prompt for a name. The name entered will be the name
+of the folder that contains the project boilerplate.
+
+
 To execute the script from the command line, you can add an alias. 
 In Linux, an alias is a custom shortcut that references a command.
 
